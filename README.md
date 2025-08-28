@@ -5,7 +5,7 @@
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3%2B-orange?style=for-the-badge&logo=scikit-learn)
 
 ## 📖 Sumário
-- [🌐 Site na web]()
+- [🌐 Site na web](https://machine-learning-pizza-lucas-dias.streamlit.app/)
 - [📜 Descrição](#-descrição)
 - [✨ Funcionalidades](#-funcionalidades)
 - [💻 Tecnologias Utilizadas](#-tecnologias-utilizadas)
